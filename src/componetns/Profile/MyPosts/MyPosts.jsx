@@ -7,7 +7,7 @@ const MyPosts = () => {
         <div>
             <div>My post</div>
             <div>New posts</div>
-            <Posts/>
+            <Posts message='Hello!' like='15'/>
             <Posts/>
             <Posts/>
             <Posts/>
